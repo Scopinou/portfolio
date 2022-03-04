@@ -4,6 +4,7 @@
   header('Location: http://leonanthaphak.ddns.net');
   exit();
 ?>
+OK
 
 You can use the [editor on GitHub](https://github.com/Scopinou/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
